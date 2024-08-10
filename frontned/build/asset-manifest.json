@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pilot-chat-app/static/css/main.0405afbf.chunk.css",
+    "main.js": "/pilot-chat-app/static/js/main.1d508436.chunk.js",
+    "main.js.map": "/pilot-chat-app/static/js/main.1d508436.chunk.js.map",
+    "runtime-main.js": "/pilot-chat-app/static/js/runtime-main.0a35f219.js",
+    "runtime-main.js.map": "/pilot-chat-app/static/js/runtime-main.0a35f219.js.map",
+    "static/js/2.806ae2ce.chunk.js": "/pilot-chat-app/static/js/2.806ae2ce.chunk.js",
+    "static/js/2.806ae2ce.chunk.js.map": "/pilot-chat-app/static/js/2.806ae2ce.chunk.js.map",
+    "static/js/3.9617bf11.chunk.js": "/pilot-chat-app/static/js/3.9617bf11.chunk.js",
+    "static/js/3.9617bf11.chunk.js.map": "/pilot-chat-app/static/js/3.9617bf11.chunk.js.map",
+    "index.html": "/pilot-chat-app/index.html",
+    "static/css/main.0405afbf.chunk.css.map": "/pilot-chat-app/static/css/main.0405afbf.chunk.css.map",
+    "static/js/2.806ae2ce.chunk.js.LICENSE.txt": "/pilot-chat-app/static/js/2.806ae2ce.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pilot-chat-app/static/media/background.24db657d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a35f219.js",
+    "static/js/2.806ae2ce.chunk.js",
+    "static/css/main.0405afbf.chunk.css",
+    "static/js/main.1d508436.chunk.js"
+  ]
+}
